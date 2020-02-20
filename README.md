@@ -41,33 +41,32 @@ Model able to detect, classify the defect. The using visualize to draw exactly w
 ![0](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/0.jpg)
 - Surface scratch
 ![1](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/1.jpg)
-- Line scratch
-![2](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/2.jpg)
-- Deep defect
-![3](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/3.jpg)
 - Surface scratch
 ![4](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/4.jpg)
 - Surface scratch
 ![5](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/5.jpg)
-- Linescratch
-![6](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/6.jpg)
-- Line scratch
-![7](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/7.jpg)
-- Deep defect
-![8](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/8.jpg)
-- Deep defect
-![9](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/9.jpg)
-- Surface scratch and line scratch
-![10](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/10.jpg)
 - Surface scratch
 ![11](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/11.jpg)
+- Surface scratch
+![14](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/14.jpg)
 - Line scratch
 ![12](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/12.jpg)
 - Line scratch
 ![13](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/13.jpg)
-- Surface scratch
-![14](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/14.jpg)
-
+- Line scratch
+![2](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/2.jpg)
+- Line scratch
+![6](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/6.jpg)
+- Line scratch
+![7](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/7.jpg)
+- Surface scratch and line scratch
+![10](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/10.jpg)
+- Deep defect
+![3](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/3.jpg)
+- Deep defect
+![8](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/8.jpg)
+- Deep defect
+![9](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/9.jpg)
 
 ## Installation
 ### Requirement:
