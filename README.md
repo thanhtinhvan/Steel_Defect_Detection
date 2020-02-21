@@ -6,9 +6,6 @@ The data can get from the above competition link.
 
 This project uses the [Mask R-CNN](https://github.com/matterport/Mask_RCNN) framework to detect steel defects in images
 
-## Mask R-CNN Implementation
-At this time (end of 2017), Facebook AI research has not yet released their implementation. [Matterport, Inc](https://matterport.com/) has graciously released a very nice python [implementation of Mask R-CNN](https://github.com/matterport/Mask_RCNN) on github using Keras and TensorFlow. This project is based on Matterport, Inc work.
-
 ## Sample images and my result:
 There are 4 classes:
 - Dot
@@ -17,7 +14,7 @@ There are 4 classes:
 ![line](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/class_line_2.jpg)
 - Surface Scratch
 ![surface](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/class_surfaceScratch_3.jpg)
-- Deep Scratch
+- Deep defect
 ![deep](https://github.com/thanhtinhvan/Steel_Defect_Detection/blob/master/Screenshots/class_deep_4.jpg)
 
 ## Generate mask using Encode pixels:
